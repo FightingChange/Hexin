@@ -1,6 +1,6 @@
 <?php
 
-namespace GeekGhc\LaraFlash;
+namespace GeekGhc\LaravddFlash;
 
 use Illuminate\Support\ServiceProvider;
 
