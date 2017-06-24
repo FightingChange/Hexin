@@ -6,5 +6,6 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    'GeekGhc\\LaraFlash\\' => array($baseDir . '/src'),
+    'GeekGhc\\LaravddFlash\\' => array($baseDir . '/src'),
+    'App\\' => array($baseDir . '/app'),
 );

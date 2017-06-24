@@ -1,7 +1,7 @@
 {
-    "name": "test1/name12",
-    "description": "dd",
-    "license": "ddd",
+    "name": "gaoqingyuan/packages",
+    "description": "LR",
+    "license": "DEV",
     "authors": [
         {
             "name": "gao",
@@ -10,8 +10,12 @@
     ],
     "require": {},
     "autoload": {
+
         "psr-4": {
-            "GeekGhc\\LaraFlash\\":"src/"
+            "App\\": "app/",
+            "GeekGhc\\LaravddFlash\\":"src/"
         }
     }
+
+
 }

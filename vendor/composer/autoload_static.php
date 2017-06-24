@@ -9,14 +9,22 @@ class ComposerStaticInit6fa455ffbe3e45d990813e6bddd816eb
     public static $prefixLengthsPsr4 = array (
         'G' => 
         array (
-            'GeekGhc\\LaraFlash\\' => 18,
+            'GeekGhc\\LaravddFlash\\' => 21,
+        ),
+        'A' => 
+        array (
+            'App\\' => 4,
         ),
     );
 
     public static $prefixDirsPsr4 = array (
-        'GeekGhc\\LaraFlash\\' => 
+        'GeekGhc\\LaravddFlash\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
+        ),
+        'App\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/app',
         ),
     );
 
