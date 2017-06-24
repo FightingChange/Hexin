@@ -1,6 +1,6 @@
 <?php
 
-namespace GeekGhc\LaravddFlash;
+namespace Hexin\Gqy;
 
 use Illuminate\Support\ServiceProvider;
 
